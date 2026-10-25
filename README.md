@@ -1,14 +1,12 @@
 <div align="center">
 
-<!-- Animated gradient banner -->
-<img width="100%" alt="Dulanjana Ayeshmantha | AI, Machine Learning and Software Development" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:06B6D4,48:7C3AED,100:EC4899&amp;height=230§ion=header&amp;text=Dulanjana%20Ayeshmantha&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=36&amp;desc=Curious%20mind.%20Creative%20code.%20Practical%20AI.&amp;descAlignY=58&amp;descSize=17" />
+<!-- Locally hosted gradient header: stable on GitHub -->
+<img width="100%" src="assets/header.svg" alt="Dulanjana Ayeshmantha — Curious mind. Creative code. Practical AI." />
 
-<h3>👋 Hello, I'm Dulanjana!</h3>
+<h3>👋 Hello, I'm Dulanjana Ayeshmantha!</h3>
 
-<!-- Animated typing headline -->
-<a href="https://github.com/denvercoder1/readme-typing-svg">
-  <img alt="Animated introduction: AI and Machine Learning Enthusiast; Full-Stack and Mobile Developer; Building Practical AI Solutions" src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=21&amp;duration=2800&amp;pause=900&amp;color=8B5CF6¢er=true&amp;vCenter=true&amp;width=650&amp;height=48&amp;lines=AI+%26+Machine+Learning+Enthusiast;Full-Stack+%26+Mobile+Developer;Building+Practical+AI+Solutions;Learn.+Build.+Improve.+Repeat." />
-</a>
+<!-- Locally hosted rotating headline: no third-party image service -->
+<img width="88%" src="assets/typing.svg" alt="Animated developer headline: AI and Machine Learning Enthusiast, Full-Stack and Mobile Developer, Building Practical AI Solutions" />
 
 <p>
   <img alt="SLIIT Undergraduate" src="https://img.shields.io/badge/SLIIT-IT%20Undergraduate-6D28D9?style=for-the-badge" />
@@ -202,6 +200,6 @@ I'm always happy to connect with other developers and learners.
 
 *Thanks for visiting my profile!*
 
-<img width="100%" alt="Cyan, purple and pink animated wave footer" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:06B6D4,48:7C3AED,100:EC4899&amp;height=110§ion=footer" />
+<img width="100%" src="assets/footer.svg" alt="Cyan, purple and pink gradient wave footer" />
 
 </div>
