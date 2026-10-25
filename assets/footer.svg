@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="112" viewBox="0 0 1120 112" role="img" aria-label="Cyan, purple and pink gradient footer wave">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#075985"/><stop offset=".5" stop-color="#6D28D9"/><stop offset="1" stop-color="#9D174D"/></linearGradient></defs>
+<path d="M0 38C215 75 385 30 561 49S886 78 1120 31V112H0Z" fill="url(#g)"/>
+<path d="M0 48C219 91 404 49 560 59S904 90 1120 41" stroke="#67E8F9" stroke-width="3" opacity=".55" fill="none"/>
+</svg>

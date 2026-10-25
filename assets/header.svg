@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="245" viewBox="0 0 1120 245" role="img" aria-labelledby="title desc">
+<title id="title">Dulanjana Ayeshmantha</title>
+<desc id="desc">Gradient wave header for an AI and software developer, with a clear subtitle and subtle animated accents.</desc>
+<defs>
+ <linearGradient id="sky" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#075985"/><stop offset=".47" stop-color="#5B21B6"/><stop offset="1" stop-color="#9D174D"/></linearGradient>
+ <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22D3EE" stop-opacity=".6"/><stop offset=".55" stop-color="#A78BFA" stop-opacity=".3"/><stop offset="1" stop-color="#FB7185" stop-opacity=".55"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#67E8F9" stop-opacity=".24"/><stop offset="1" stop-color="#67E8F9" stop-opacity="0"/></radialGradient>
+ <style>
+ .spark{animation:twinkle 4s ease-in-out infinite}
+ .spark.d2{animation-delay:1.2s}.spark.d3{animation-delay:2.4s}
+ .halo{animation:glow 6s ease-in-out infinite}
+ @keyframes twinkle{0%,100%{opacity:.25;transform:translateY(0)}50%{opacity:.9;transform:translateY(-7px)}}
+ @keyframes glow{0%,100%{opacity:.6}50%{opacity:1}}
+ @media(prefers-reduced-motion:reduce){.spark,.halo{animation:none}}
+ </style>
+</defs>
+<path d="M0 0H1120V205C930 178 755 202 560 209S180 188 0 203Z" fill="url(#sky)"/>
+<path d="M0 182C220 170 360 213 560 206S927 180 1120 197V212C894 186 731 219 555 218S182 200 0 212Z" fill="url(#wave)" opacity=".7"/>
+<ellipse class="halo" cx="140" cy="90" rx="245" ry="145" fill="url(#glow)"/>
+<ellipse cx="985" cy="64" rx="185" ry="120" fill="#F472B6" opacity=".07"/>
+<g fill="#E0F2FE"><circle class="spark" cx="90" cy="45" r="2.4"/><circle class="spark d2" cx="990" cy="49" r="2.3"/><circle class="spark d3" cx="880" cy="145" r="1.8"/><circle class="spark d2" cx="230" cy="167" r="1.8"/></g>
+<text x="560" y="91" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="53" text-anchor="middle">Dulanjana Ayeshmantha</text>
+<text x="560" y="136" fill="#F0F9FF" font-family="Arial, Helvetica, sans-serif" font-weight="500" font-size="21" text-anchor="middle">Curious mind. Creative code. Practical AI.</text>
+<path d="M476 161H644" stroke="#A5F3FC" stroke-width="2" stroke-linecap="round" opacity=".8"/>
+</svg>
